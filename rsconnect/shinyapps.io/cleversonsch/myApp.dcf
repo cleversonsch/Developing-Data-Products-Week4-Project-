@@ -1,0 +1,12 @@
+name: myApp
+title: myApp
+username:
+account: cleversonsch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1035372
+bundleId: 2238425
+url: https://cleversonsch.shinyapps.io/myApp/
+when: 1563309965.25957
+asMultiple: FALSE
+asStatic: FALSE
